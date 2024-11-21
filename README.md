@@ -34,7 +34,7 @@ Retrieve a list of all books.
   }
 ]
 ```
-## 2. POST /api/books
+## 2. POST `/api/books`
 Create a new book.
 
 **Response**
@@ -52,7 +52,7 @@ Create a new book.
 }
 ```
 
-## 3. GET /api/books/{id}
+## 3. GET `/api/books/{id}`
 Retrieve details of a specific book.
 
 **Response**
@@ -69,7 +69,7 @@ Retrieve details of a specific book.
 ]
 ```
 
-## 4. PUT /api/books/{id}
+## 4. PUT `/api/books/{id}`
 Update details of a specific book.
 
 Step : 
