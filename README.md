@@ -1,4 +1,4 @@
-# API Documentation: Books API
+# API Documentation: GdGOC API
 
 This API provides functionality to manage (CRUD) books.
 
